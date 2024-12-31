@@ -13,7 +13,7 @@ Proyectos innovadores que permitan explorar nuevas tecnologías y frameworks, y 
 Me apasiona la inteligencia artificial, la ingeniería de software, y las tecnologías que ayudan a optimizar procesos y resolver problemas reales.
 
 💞️ **My Motivation:**  
-Una de mis mayores inspiraciones y razones de esfuerzo es mi esposa, Maria Luisa. En el tiempo que hemos compartido, su apoyo ha sido invaluable, y eso me motiva a dar lo mejor de mí en cada paso.
+Una de mis mayores inspiraciones y razones de esfuerzo es mi esposa, Luisa Maria. En el tiempo que hemos compartido, su apoyo ha sido invaluable, y eso me motiva a dar lo mejor de mí en cada paso.
 
 📫 **How to Reach Me:**  
 - [Twitter/X](https://x.com/ZadotDev)
